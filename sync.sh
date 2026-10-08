@@ -31,6 +31,7 @@ configure_local_excludes() {
 # Jupyter / Python temporary files
 .ipynb_checkpoints/
 __pycache__/
+.ipynb_checkpoints
 *.py[cod]
 
 # Editor / application temporary files
